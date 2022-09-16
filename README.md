@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me :
 - 🌱 I’m currently learning Python, Django, REST API, SQL, etc.
 - :man_office_worker: Background: Nuclear power plants personnel instructor. Was involved in internatonal projects :finland: :hungary: :egypt:
-- 📫 How to reach me: fomichev.dmitry37@yandex.ru
+- 📫 How to reach me: fomichevdo.work@gmail.com
 
 ---
 
