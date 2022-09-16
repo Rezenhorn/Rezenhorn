@@ -30,4 +30,4 @@
 
 [![codewars](https://www.codewars.com/users/Rezenhorn/badges/large)](https://www.codewars.com/users/Rezenhorn)
   
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Rezenhorn&theme=dark)](https://github.com/Rezenhorn/leetcode-stats)
+[![Rezenhorn's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Rezenhorn&theme=dark)](https://leetcode.com/Rezenhorn/)
