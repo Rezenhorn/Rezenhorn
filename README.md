@@ -23,9 +23,3 @@ Telegram: https://t.me/dmitry_npp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   
   ---
-
-### :fire: My Stats :
-
-[![codewars](https://www.codewars.com/users/Rezenhorn/badges/large)](https://www.codewars.com/users/Rezenhorn)
-  
-[![Rezenhorn's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Rezenhorn&theme=dark)](https://leetcode.com/Rezenhorn/)
