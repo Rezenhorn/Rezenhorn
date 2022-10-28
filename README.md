@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning Python, Django, REST API, SQL, Docker, etc.
 - :man_office_worker: Background: Nuclear power plants personnel instructor. Was involved in internatonal projects (Hungary, Egypt, Finland)
 - 📫 How to reach me: fomichevdo.work@gmail.com
+Telegram: https://t.me/dmitry_npp
 
 ---
 
