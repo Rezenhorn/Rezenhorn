@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me :
-- :hammer_and_wrench: Stack: Python, Django, Django REST Framework, SQL, Docker, etc.
+- :hammer_and_wrench: Stack: Python, Flask, Django, Django REST Framework, SQL, Docker, etc.
 - :man_office_worker: Background: Nuclear power plants personnel instructor. Was involved in internatonal projects (Hungary, Egypt, Finland)
 - 📧 Mail: fomichevdo.work@gmail.com
 - 📫 Telegram: https://t.me/dmitry_npp
