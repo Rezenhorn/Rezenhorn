@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone, I'm Dmitry</a> 
+<h1 align="center">Hello everyone, I'm Dmitry 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python Backend Developer</h3>
 
