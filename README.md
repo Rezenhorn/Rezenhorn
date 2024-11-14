@@ -5,6 +5,6 @@
 ---
 
 ### 👨‍💻 About Me :
-- :hammer_and_wrench: Stack: Python, Flask, Django, Django REST Framework, PostgreSQL, RabbitMQ, SQL, Docker, etc.
+- :hammer_and_wrench: Stack: Python, FastAPI, Django, Django REST Framework, Flask, PostgreSQL, RabbitMQ, Redis, Celery, SQL, Docker, etc.
 
 ---
